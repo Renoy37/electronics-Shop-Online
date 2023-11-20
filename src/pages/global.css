@@ -1,0 +1,16 @@
+/* Add these styles to your global styles or the relevant stylesheet */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: Customize the scroll duration and easing */
+body {
+  scroll-behavior: smooth;
+  scroll-behavior: smooth;
+  scroll-behavior: smooth;
+  transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Easing function */
+  scroll-behavior: smooth;
+}
+
+
